@@ -4,7 +4,7 @@ Supermarket Billing System is a C++ console-based application designed to handle
 
 
 
-🚀  Features
+## 🚀  Features
 
 ✅ Add Items: Add new products with name, rate, and quantity to the inventory.
 ✅ Print Bill: Generate a bill based on selected items and quantities.
@@ -15,14 +15,14 @@ Supermarket Billing System is a C++ console-based application designed to handle
 
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 * Language: C++
 * File Handling: fstream for reading and writing inventory data.
 * System Dependencies: Uses windows.h for Sleep() function.
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 Supermarket-Billing-System/
 
@@ -32,7 +32,7 @@ Supermarket-Billing-System/
 
 
 
-📝 Future Enhancements
+## 📝 Future Enhancements
 
 Add a graphical user interface (GUI).
 🔹 Implement a database for better storage management.
